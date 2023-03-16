@@ -1,2 +1,3 @@
+*.dart linguist-language=dart
 # Auto detect text files and perform LF normalization
 * text=auto
